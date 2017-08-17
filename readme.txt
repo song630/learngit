@@ -1,4 +1,4 @@
 git test text
-aaa bbb ccc
+aaa bbb
 modified
 modified again
