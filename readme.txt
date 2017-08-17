@@ -1,5 +1,5 @@
 git test text
-aaa bbb
+aaa
 modified
 modified again
 add
